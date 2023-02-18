@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/38851602/219870720-c3a56f9e-1e01-4dd4-ad16-7d369daa93c6.png)
 
-<h1><a src="https://www.coursera.org/learn/algorithmic-toolbox?specialization=data-structures-algorithms">Algorithmic Toolbox</a></h1>
+<h1><a href="https://www.coursera.org/learn/algorithmic-toolbox?specialization=data-structures-algorithms">Algorithmic Toolbox</a></h1>
 <h2>About this Course</h2>
 This online course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second).
 
