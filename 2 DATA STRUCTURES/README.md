@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/38851602/219870991-86cce08a-00d8-4218-8f8b-dc4efdabcd2d.png)
 
-<h1><a src="https://www.coursera.org/learn/data-structures">Data Structures</a></h1>
+<h1><a href="https://www.coursera.org/learn/data-structures">Data Structures</a></h1>
 <h2>About this Course</h2>
 A good algorithm usually comes together with a set of good data structures that allow the algorithm to manipulate the data efficiently. In this online course, we consider the common data structures that are used in various computational problems. You will learn how these data structures are implemented in different programming languages and will practice implementing them in our programming assignments. This will help you to understand what is going on inside a particular built-in implementation of a data structure and what to expect from it. You will also learn typical use cases for these data structures.
 

@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/38851602/219871931-3acb4527-73b3-4941-b557-7482e192c288.png)
 
-<h1><a src="https://www.coursera.org/learn/assembling-genomes?specialization=data-structures-algorithms">Genome Assembly Programming Challenge</a></h1>
+<h1><a href="https://www.coursera.org/learn/assembling-genomes?specialization=data-structures-algorithms">Genome Assembly Programming Challenge</a></h1>
 <h2>About this Course</h2>
 <p>
 n Spring 2011, thousands of people in Germany were hospitalized with a deadly disease that started as food poisoning with bloody diarrhea and often led to kidney failure. It was the beginning of the deadliest outbreak in recent history, caused by a mysterious bacterial strain that we will refer to as E. coli X. Soon, German officials linked the outbreak to a restaurant in Lübeck, where nearly 20% of the patrons had developed bloody diarrhea in a single week. At this point, biologists knew that they were facing a previously unknown pathogen and that traditional methods would not suffice – computational biologists would be needed to assemble and analyze the genome of the newly emerged pathogen.

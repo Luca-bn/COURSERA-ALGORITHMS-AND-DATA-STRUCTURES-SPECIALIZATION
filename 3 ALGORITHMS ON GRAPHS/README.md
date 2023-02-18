@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/38851602/219871234-4c34da20-4e8e-4d1a-a787-b6b642122e61.png)
 
-<h1><a src="https://www.coursera.org/learn/algorithms-on-graphs?specialization=data-structures-algorithms">Algorithms on Graphs</a></h1>
+<h1><a href="https://www.coursera.org/learn/algorithms-on-graphs?specialization=data-structures-algorithms">Algorithms on Graphs</a></h1>
 <h2>About this Course</h2>
 If you have ever used a navigation service to find optimal route and estimate time to destination, you've used algorithms on graphs. Graphs arise in various real-world situations as there are road networks, computer networks and, most recently, social networks! If you're looking for the fastest time to get to work, cheapest way to connect a set of computers into a network or efficient algorithm to automatically find communities and opinion leaders in Facebook, you're going to work with graphs and algorithms on graphs.
 

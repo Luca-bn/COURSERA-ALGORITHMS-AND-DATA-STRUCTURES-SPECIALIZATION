@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/38851602/219871522-9be13a62-b5ee-4ab2-b83a-0de262cd92da.png)
 
-<h1><a src="https://www.coursera.org/learn/algorithms-on-strings?specialization=data-structures-algorithms">Algorithms on Strings</a></h1>
+<h1><a href="https://www.coursera.org/learn/algorithms-on-strings?specialization=data-structures-algorithms">Algorithms on Strings</a></h1>
 <h2>About this Course</h2>
 <p>
 World and internet is full of textual information. We search for information using textual queries, we read websites, books, e-mails. All those are strings from the point of view of computer science. To make sense of all that information and make search efficient, search engines use many string algorithms. Moreover, the emerging field of personalized medicine uses many search algorithms to find disease-causing mutations in the human genome. In this online course you will learn key pattern matching concepts: tries, suffix trees, suffix arrays and even the Burrows-Wheeler transform.
