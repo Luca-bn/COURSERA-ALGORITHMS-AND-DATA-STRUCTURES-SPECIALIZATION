@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/38851602/219869962-97129186-7ed2-4484-ba97-8efd232e814f.png)
 
 <h2><a href="https://github.com/LucaBuono/COURSERA-ALGORITHMS-AND-DATA-STRUCTURES-SPECIALIZATION/wiki">COURSE NOTES (ITA)</a></h2>
-For the notes related to arguments covered in this specialization, go to wiki section.
+For notes related to arguments covered in this specialization, go to wiki section.
 
 <h1><a href="https://www.coursera.org/specializations/data-structures-algorithms">Data Structures and Algorithms Specialization</a></h1>
 
